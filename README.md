@@ -22,7 +22,7 @@
 
 
 
-![Screenshot 2024-05-29 114738](https://github.com/komal65/Preowned-car-dealer-website/assets/114643264/3452d864-71a9-4560-91c6-da86bfcef572)
 ![Screenshot 2024-05-29 114515](https://github.com/komal65/Preowned-car-dealer-website/assets/114643264/2b0375f3-f1a1-40bf-96c2-c7bb6928678a)
+![Screenshot 2024-05-29 114738](https://github.com/komal65/Preowned-car-dealer-website/assets/114643264/3452d864-71a9-4560-91c6-da86bfcef572)
 
 
